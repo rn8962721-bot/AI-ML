@@ -1,4 +1,4 @@
-# data-engineering-journey
+# Computer Science
 Day-wise learning journey with daily hands-on practice.
 
 This repository contains daily practice organized by day folders.
