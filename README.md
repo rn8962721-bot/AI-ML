@@ -1,4 +1,4 @@
-# Computer Science
+# AI/ML 
 Day-wise learning journey with daily hands-on practice.
 
 This repository contains daily practice organized by day folders.
